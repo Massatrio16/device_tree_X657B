@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_Infinix-X657B.mk
+    $(LOCAL_DIR)/Infinix-X657B.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_Infinix-X657B-user \
-    lineage_Infinix-X657B-userdebug \
-    lineage_Infinix-X657B-eng
+    Infinix-X657B-user \
+    Infinix-X657B-userdebug \
+    Infinix-X657B-eng
