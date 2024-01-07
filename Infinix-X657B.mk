@@ -14,7 +14,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/infinix/Infinix-X657B/device.mk)
 
 PRODUCT_DEVICE := Infinix-X657B
-PRODUCT_NAME := lineage_Infinix-X657B
+PRODUCT_NAME := Infinix-X657B
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X657B
 PRODUCT_MANUFACTURER := infinix
